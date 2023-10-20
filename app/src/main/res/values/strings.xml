@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compose Camera</string>
+    <string name="camera_flip">Camera Flip</string>
+    <string name="camera_capture">Camera Capture</string>
+    <string name="camera_gallery">Camera Gallery</string>
+    <string name="camera_timer">Camera Timer</string>
+    <string name="camera_flash">Camera Flash</string>
+</resources>
